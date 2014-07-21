@@ -1,0 +1,9 @@
+//
+//  ViewController2.swift
+//  test4
+//
+//  Created by foxking on 14-7-16.
+//  Copyright (c) 2014年 foxking. All rights reserved.
+//
+
+import Foundation
