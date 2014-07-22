@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class StiticMember{
+    
+    
+    
+    struct Inner{
+        static var msg:String?
+    }
+    
+}
